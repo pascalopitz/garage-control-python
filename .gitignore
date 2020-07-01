@@ -1,0 +1,13 @@
+.env
+.aws
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.profile
+.python_history
+.viminfo
+garagectrl_err.txt
+garagectrl_log.txt
+supervisord.log
+supervisord.pid
